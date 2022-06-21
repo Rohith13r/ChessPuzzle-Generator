@@ -22,3 +22,13 @@ This is a web based application developed for people who are intrested in chess 
 ## Screenshots
 
 ![display](https://user-images.githubusercontent.com/80285847/174723300-76342a45-af5d-40b5-9ab7-0e6ecfe5b14f.jpeg)
+
+
+
+
+
+![daily puzzle chess](https://user-images.githubusercontent.com/80285847/174723431-87d10f08-9349-46e1-a365-2ff837e08fdd.jpeg)
+
+
+
+### About Us -
