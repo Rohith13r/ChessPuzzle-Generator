@@ -1,4 +1,4 @@
-# FRT-CHESS
+# ChessPuzzle Generator
 
 # ✨ CHESS PUZZLE  ✨
 
