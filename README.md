@@ -32,3 +32,8 @@ This is a web based application developed for people who are intrested in chess 
 
 
 ### About Us -
+
+
+
+
+![about](https://user-images.githubusercontent.com/80285847/174723658-623715c8-0114-4b33-8eed-8204e707ae51.jpeg)
